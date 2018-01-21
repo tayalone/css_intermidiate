@@ -1,0 +1,52 @@
+#exe1 {
+    text-align: center
+}
+
+#exe1 table {
+    width:60%;
+    height:60%;
+    margin: 0 auto;
+}
+
+.verticle {
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+
+.horizontal {
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+}
+
+#blog {
+    border: #bdc3c7 1em solid;
+    padding: 1em;
+    max-width: 800px;
+    width: 70%;
+    margin: 20px auto;
+    font-family: 'Roboto', sans-serif;
+}
+
+.quote {
+    border-left: 0.5em solid #bdc3c7;
+    padding-left: 0.25em
+}
+
+.date {
+    color: #3498db;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 0.2rem
+}
+
+#blog h2 {
+    color: #2c3e50;
+    font-size: 2.0em
+}
+
+hr.style-one {
+    border: 0;
+    height: 1px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}

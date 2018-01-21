@@ -59,3 +59,20 @@
     border: 2px solid black
 }
 
+img {
+    width: 30%;
+    float: left;
+    margin: 1.66%;
+}
+
+#galTitle {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.66em;
+    font-weight: bolder;
+    text-transform: uppercase;
+    padding: 20px, auto;
+}
+
+
+
+
