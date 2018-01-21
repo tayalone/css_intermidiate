@@ -1,0 +1,61 @@
+/*font-family*/
+#fontAndText p {
+    font-family: Arial;
+}
+
+#fontAndText h2 {
+    font-family: Geogia
+}
+
+/*font-size*/
+#fontAndText h2 {
+    font-size: 24px
+}
+#fontAndText span {
+    font-size: 2.0em
+}
+
+/*font-weigth*/
+#fontAndText p {
+    font-weight: bold
+}
+
+/*line-heigth*/
+#fontAndText p {
+    line-height: normal
+}
+
+/*text-align*/
+#fontAndText ul {
+    text-align: center
+}
+
+/*text-decolation*/
+#fontAndText p {
+    text-decoration: overline
+}
+
+
+/*Google Font*/
+#googleFont {
+    font-family: 'Roboto', sans-serif;
+}
+
+/*Box Model*/
+
+#parentUl {
+    margin: 20 ;
+}
+
+#parentUl{
+    padding: 60px;
+}
+
+#parentUl {
+    background: aliceblue
+}
+
+#parentUl {
+    border: 2px solid black
+}
+
